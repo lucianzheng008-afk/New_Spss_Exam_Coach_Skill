@@ -8,7 +8,7 @@ This repository uses a flat skill layout: `SKILL.md` is at the repository root. 
 
 ```bash
 python /Users/zhengsiyuan/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo lucianzheng008-afk/SPSS_EXAM_COACH_SKILL \
+  --repo lucianzheng008-afk/New_Spss_Exam_Coach_Skill \
   --path . \
   --name spss-exam-coach
 ```
